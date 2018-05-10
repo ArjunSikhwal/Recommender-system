@@ -32,8 +32,6 @@ movie ids.txt - List of movies
 
 normalizeRatings.m - Mean normalization for collaborative filtering
 
-submit.m - Submission script that sends your solutions to our servers
-
 estimateGaussian.m - Estimate the parameters of a Gaussian dis-
 
 tribution with a diagonal covariance matrix
