@@ -4,9 +4,9 @@ Movie recommeder system using anomaly detection algorithm
 This is an assignment that i completed in Andrew NG's machine learning course on coursera.org.
 
 # File name and their function
-ex8.m - Octave/MATLAB script for rst part of exercise
+ex8.m - Octave/MATLAB script for first part of exercise(Creating the algorithm and use it on a sample dataset)
 
-ex8 cofi.m - Octave/MATLAB script for second part of exercise
+ex8 cofi.m - Octave/MATLAB script for second part of exercise(using the previously created algorithm to recommend movies from the given dataset)
 
 ex8data1.mat - First example Dataset for anomaly detection
 
