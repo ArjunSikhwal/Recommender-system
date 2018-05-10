@@ -1,7 +1,7 @@
 # Recommendor-system
 Movie recommeder system using anomaly detection algorithm
 
-This is an assignment that i completed in Andrew NG's machine learning course on coursera.org.
+This repo is specially created for the work done by me as a part of Coursera's Machine Learning Course.
 
 # File name and their function
 ex8.m - Octave/MATLAB script for first part of exercise(Creating the algorithm and use it on a sample dataset)
