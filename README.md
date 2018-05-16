@@ -1,4 +1,4 @@
-# Recommendor-system
+# Recommender-system
 Movie recommeder system using anomaly detection algorithm
 
 This repo is specially created for the work done by me as a part of Coursera's Machine Learning Course.
